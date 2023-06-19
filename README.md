@@ -20,7 +20,7 @@
 
 ### Publications:
 
-<p align="justify">The <strong>KneeROM</strong> dataset is freely and publicly available for any research and educational purposes. Any publication using the current Android mobile app, the KneeROM would encourage to reference to:
+<p align="justify">The <strong>KneeROM</strong> Android mobile app is freely and publicly available for any research and educational purposes. Any publication using the current Android mobile app, the KneeROM would encourage to reference to:
 <p align="justify">
 <strong>[1]</strong> Gong M. et al., 2023. Development and Validation of a Mobile Phone Application for Measuring Knee Range of Motion. [Under Review]</a>
 </p>
