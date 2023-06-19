@@ -18,7 +18,7 @@
 + <a href="https://www.orthonet.pitt.edu/people/f-johannes-plate-md-phd" target="_blank">Johannes F. Plate</a>, MD, PhD
 + <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA
 
-  ### Publications:
+### Publications:
 
 <p align="justify">The <strong>KneeROM</strong> dataset is freely and publicly available for any research and educational purposes. Any publication using the current Android mobile app, the KneeROM would encourage to reference to:
 <p align="justify">
