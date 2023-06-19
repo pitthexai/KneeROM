@@ -1,3 +1,6 @@
 # KneeROM
 ## An Android Mobile App to Automatically Measure and Analyze Knee Range of Motion (ROM)
 <p align="justify">Knee range of motion (ROM) is an important clinical variable which directly provides information about knee joint functionality. Specifically following total knee arthroplasty (TKA), the ability to flex and extend needs to be monitored in the postoperative period and has an impact on patient outcomes and mobility. Outside the clinical setting, patients may not be able to accurately assess knee ROM, which may impair recovery following trauma or surgery. Thus, we built a mobile app that aims to automatically measure knee ROM. </p>
+
+### Method
+<p align="justify">The current knee ROM Android mobile application was developed utilizing the gyroscope sensor in smartphones. Patients ≥ 18 years old presenting to an orthopedic clinic with native knee complaints were approached to participate. Knee ROM was measured bilaterally by an arthroplasty-trained surgeon using three different mechanisms, including: (1) vision, (2) goniometer, and (3) the Android mobile application. Measurements were compared in knee flexion and extension using a one-way ANOVA with post-hoc Tukey test (alpha = 0.05).</p>
