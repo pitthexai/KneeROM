@@ -25,6 +25,6 @@
 <p align="justify">
 <strong>[1]</strong> Gong M. et al., 2023. Development of a Mobile Phone Application for Measuring Knee Range of Motion. Journal of Knee Surgery [Under Review]. </p>
 <p align="justify">
-<strong>[2]</strong> Amirian S. et al., 2024. Development and Validation of a Smartphone App for Automated Knee Range of Motion Measurement in a Clinical Setting. AMIA 2024 Informatics Summit.
+<strong>[2]</strong> Amirian S. et al., 2024. Development and Validation of a Smartphone App for Automated Knee Range of Motion Measurement in a Clinical Setting. AMIA 2024 Informatics Summit. [Under Publication]
 </p>
 
