@@ -15,7 +15,7 @@
 ### Developers and Collaborators: 
 + <a href="https://www.orthonet.pitt.edu/people/matthew-gong-md" target="_blank">Matthew Gong</a>, MD; University of Pittsburgh
 + <a href="" target="_blank">Logan E. Finger</a>, MD; University of Pittsburgh
-+ <a href="https://amiielab.github.io/" target="_blank">Soheyla Amirian</a>; University of Georgia
++ <a href="https://amiielab.github.io/" target="_blank">Soheyla Amirian</a>, PhD; University of Georgia
 + <a href="https://www.orthonet.pitt.edu/people/f-johannes-plate-md-phd" target="_blank">Johannes F. Plate</a>, MD, PhD; University of Pittsburgh
 + <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA; University of Pittsburgh
 
