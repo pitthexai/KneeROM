@@ -23,6 +23,7 @@
 
 <p align="justify">The <strong>KneeROM</strong> Android mobile app is freely and publicly available for any research, academic, or educational purposes. Any publication using the current Android mobile app, the KneeROM, would encourage to reference to:
 <p align="justify">
-<strong>[1]</strong> Gong M. et al., 2023. Development and Validation of a Mobile Phone Application for Measuring Knee Range of Motion. Journal of Knee Surgery [Under Review].
+<strong>[1]</strong> Gong M. et al., 2023. Development of a Mobile Phone Application for Measuring Knee Range of Motion. Journal of Knee Surgery [Under Review].
+<strong>[2]</strong> Amirian S. et al., 2024. Development and Validation of a Smartphone App for Automated Knee Range of Motion Measurement in a Clinical Setting. AMIA 2024 Informatics Summit.
 </p>
 
