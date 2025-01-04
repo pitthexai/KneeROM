@@ -19,12 +19,20 @@
 + <a href="https://www.orthonet.pitt.edu/people/f-johannes-plate-md-phd" target="_blank">Johannes F. Plate</a>, MD, PhD; University of Pittsburgh
 + <a href="https://pitthexai.github.io" target="_blank">Ahmad P. Tafti</a>, PhD, FAMIA; University of Pittsburgh
 
-### Publications:
+### Important Note:
 
-<p align="justify">The <strong>KneeROM</strong> Android mobile app is freely and publicly available for any research, academic, or educational purposes. Any publication using the current Android mobile app, the KneeROM, would encourage to reference to:
-<p align="justify">
-<strong>[1]</strong> Gong M. et al., 2023. Development of a Mobile Phone Application for Measuring Knee Range of Motion. Journal of Knee Surgery [Under Review]. </p>
-<p align="justify">
-<strong>[2]</strong> Amirian S. et al., 2024. Development and Validation of a Smartphone App for Automated Knee Range of Motion Measurement in a Clinical Setting. AMIA 2024 Informatics Summit. [Under Publication]
-</p>
+<p align="justify">The <strong>KneeROM</strong> Android mobile app is freely and publicly available for any research, academic, or educational purposes. <strong> This mobile app is intended exclusively for research, academic, and educational purposes</strong>.
+  
+ ### Citation:
 
+<p align="justify">This contribution is fully explained in the following papers published through <a href="https://www.thieme-connect.com/products/ejournals/abstract/10.1055/a-2388-0812" target="_blank">The Journal of Knee Surgery</a>. Any publication using this work would require to cite the following paper:
+
+  ```
+  @article{gong2024development,
+  title={Development and Validation of a Mobile Phone Application for Measuring Knee Range of Motion},
+  author={Gong, Matthew F and Finger, Logan E and Letter, Christina and Amirian, Soheyla and Parmanto, Bambang and O'Malley, Michael and Klatt, Brian A and Tafti, Ahmad P and Plate, Johannes F},
+  journal={The Journal of Knee Surgery},
+  year={2024},
+  publisher={Thieme Medical Publishers, Inc.}
+}
+```
