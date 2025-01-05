@@ -12,6 +12,11 @@
 ### Preliminary Results
 <p align="justify">84 knee ROM measurements (40 left, 44 right) were obtained in 47 patients. Mean Kellgren-Lawrence grade from available radiographs was 2.9 ± 1.1.  In flexion, mobile application (117.6 ± 14.7°) measurements were not significantly different from visual (116.1 ± 13.6°) or goniometer (116.2 ± 13.6°) measurements. In extension, mobile application (-4.8  ± 7.3°) measurements were significantly different from visual (-1.9 ± 4.1°) measurements on post-hoc analysis (p < 0.01), while no differences were present compared to goniometer (-3.1 ± 5.8°) measurements.</p>
 
+[![Knee ROM app](https://github.com/pitthexai/KneeROM/blob/main/Data/pitthexai.png)](https://www.youtube.com/watch?v=kXL2Q03Cez8)
+
+
+
+
 ### Developers and Collaborators: 
 + <a href="https://www.orthonet.pitt.edu/people/matthew-gong-md" target="_blank">Matthew Gong</a>, MD; University of Pittsburgh
 + <a href="" target="_blank">Logan E. Finger</a>, MD; University of Pittsburgh
